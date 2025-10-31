@@ -1,0 +1,10 @@
+project_id = "gckgsiwqqtktnjoyrzxr"
+
+[functions.submit-screening]
+verify_jwt = true
+
+[functions.track-progress]
+verify_jwt = true
+
+[functions.get-activity-plan]
+verify_jwt = true
